@@ -1,4 +1,4 @@
-# Crear proyecto en Documentos>GithubCelesteJS
+## Crear proyecto en Documentos>GithubCelesteJS
 # Crear proyecto en Github
 # Agregar comandos en el proyecto
 
