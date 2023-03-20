@@ -1,0 +1,19 @@
+{
+  "name": "PandasPlotPy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grafico": "python generar_grafico.py && plotly io --show --browser --html grafico.html",
+    "open": "pnpm run grafico && open home.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "pandas": "^1.3.3",
+    "plotly": "^5.3.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
